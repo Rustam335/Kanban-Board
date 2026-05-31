@@ -4,7 +4,9 @@ A polished, drag-and-drop Kanban board that feels like a real SaaS product. Orga
 
 ## Screenshots
 
-<!-- add screenshot here -->
+| Light | Dark |
+| :---: | :---: |
+| ![Flow Kanban Board — light mode](screenshots/light.png) | ![Flow Kanban Board — dark mode](screenshots/dark.png) |
 
 ## Features
 
